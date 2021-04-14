@@ -20,7 +20,6 @@ public class p2 {
    	ChatBot cb;
    /**
 	 * Construct an inverted index using tf-idf weighting
-    * @Tuheena Singh
 	 * @param docs List of input strings or file names
 	 * 
 	 */
